@@ -1,4 +1,4 @@
-# DATA ANALYTICS NCPOR
+# DATA ANALYTICS NCPOR USING PYTHON
 TIME SERIES DATA ANALYTICS
 Analysis of various parameters was done by plotting the graphs. The graphs plotted along with their description is given in the doc.
 Also the ipynb notebook contains all the comments for the plots. 
